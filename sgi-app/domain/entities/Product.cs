@@ -16,10 +16,11 @@ namespace sgi_app.domain.entities
         public DateTime UpdatedAt { get; set; }
         public string Barcode { get; set; }
         
-
+        /*
         public ICollection<DetalleVenta> DetallesVenta { get; set; }
         public ICollection<DetalleCompra> DetallesCompra { get; set; }
         public ICollection<ProductoProveedor> ProductosProveedores { get; set; }
         public ICollection<PlanProducto> PlanesProductos { get; set; }
+        */
     }
 }

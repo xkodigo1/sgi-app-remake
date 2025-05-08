@@ -13,7 +13,9 @@ namespace sgi_app.domain.entities
         public int DiaPago { get; set; }
         
         // Relaciones de navegación
+        /*
         public Tercero Tercero { get; set; }
         public ICollection<ProductoProveedor> ProductosProveedores { get; set; }
+        */
     }
 }

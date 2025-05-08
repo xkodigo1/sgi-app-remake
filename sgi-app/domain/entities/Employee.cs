@@ -14,9 +14,10 @@ namespace sgi_app.domain.entities
         public int EpsId { get; set; }
         public int ArlId { get; set; }
         
-
+        /*
         public Tercero Tercero { get; set; }
         public EPS Eps { get; set; }
         public ARL Arl { get; set; }
+        */
     }
 }

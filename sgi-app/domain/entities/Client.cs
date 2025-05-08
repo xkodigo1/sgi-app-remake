@@ -13,6 +13,8 @@ namespace sgi_app.domain.entities
         public DateTime? FechaNac { get; set;}
         public DateTime FechaCompra { get; set;}
         
+        /*
         public Tercero Tercero { get; set;}
+        */
     }
 }
