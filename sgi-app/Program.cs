@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using sgi_app.UI;
+
+var mainMenu = new MainMenu();
+mainMenu.Show();
